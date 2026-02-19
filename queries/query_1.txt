@@ -1,0 +1,1 @@
+Explain what Retrieval-Augmented Generation (RAG) is and give an example of its application.

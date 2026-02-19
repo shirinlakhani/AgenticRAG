@@ -1,0 +1,4 @@
+{
+  "query": "Explain what Retrieval-Augmented Generation (RAG) is and give an example of its application.",
+  "response": "RAG combines retrieval from a knowledge base with LLM generation to provide accurate answers. For example, a RAG-based chatbot can answer AI interview questions by first retrieving relevant documents and then summarizing them using an LLM."
+}

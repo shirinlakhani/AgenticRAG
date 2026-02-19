@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# VSCode settings (optional)
+.vscode/
+
+# Data (optional: ignore embeddings if very large)
+data/embeddings/
+
+# Any other local files you don’t want in Git
+*.sqlite
+*.db

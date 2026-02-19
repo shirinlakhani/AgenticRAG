@@ -1,0 +1,4 @@
+{
+  "query": "Describe the difference between fine-tuning and few-shot prompting.",
+  "response": "Fine-tuning modifies the model weights on domain-specific data, while few-shot prompting provides examples in the input to guide the LLM without changing its weights."
+}

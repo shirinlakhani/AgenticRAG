@@ -1,0 +1,4 @@
+{
+  "query": "What are best practices for prompt engineering with LLMs?",
+  "response": "Best practices include: writing clear and specific instructions, providing context and examples, breaking tasks into smaller steps, and iteratively testing and refining prompts."
+}

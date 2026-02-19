@@ -1,0 +1,4 @@
+{
+  "query": "How do you implement multi-agent workflows in AI systems?",
+  "response": "Multi-agent AI decomposes complex tasks into sub-tasks handled by specialized agents. Each agent retrieves information, reasons, and communicates results. The outputs are aggregated to provide a complete answer."
+}
