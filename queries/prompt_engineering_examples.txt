@@ -1,0 +1,4 @@
+Write a system prompt to summarize Agentic AI concepts in 3 bullet points.
+Create a prompt to extract CSV knowledge into a concise answer.
+Generate a prompt that instructs the AI to act as a multi-agent coordinator.
+Draft a prompt to convert RAG insights into interview Q&A.

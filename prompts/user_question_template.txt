@@ -1,0 +1,3 @@
+Answer the following question using your knowledge of Agentic AI, GenAI, and RAG:
+{user_question}
+Provide step-by-step explanations if the question involves technical workflows.

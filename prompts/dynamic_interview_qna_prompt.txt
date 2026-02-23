@@ -1,0 +1,3 @@
+Create an interview-style Q&A from the following content:
+{content}
+Include technical questions and clear answers suitable for an Agentic AI or GenAI interview.

@@ -1,0 +1,5 @@
+What is generative AI?
+List common generative AI use cases in business.
+How do LLMs generate text?
+What are some ethical considerations when using generative AI?
+Compare GenAI and Agentic AI.

@@ -1,0 +1,4 @@
+You are given the following context from a knowledge base:
+{retrieved_context}
+Answer the question: {user_question}
+If the context does not contain the answer, respond with: "I could not find sufficient information in the knowledge base."

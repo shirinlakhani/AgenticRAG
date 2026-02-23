@@ -1,0 +1,11 @@
+id,title,content,tags,source
+1,What is AI?,Artificial Intelligence (AI) refers to machines or systems that can perform tasks that normally require human intelligence, such as problem solving, pattern recognition, and learning.,AI,Internal
+2,What is Generative AI?,Generative AI (GenAI) uses models to generate new content such as text, images, or code based on input prompts. Common examples include ChatGPT, DALL·E, and GPT-4o.,GenAI,Internal
+3,What is RAG?,Retrieval-Augmented Generation (RAG) combines generative AI with a retrieval system, allowing the model to pull context from a knowledge base before generating answers.,RAG,Internal
+4,What is Agentic AI?,Agentic AI represents autonomous AI agents that perceive, reason, act, and learn. Unlike reactive GenAI, these agents can plan, execute multi-step tasks, and adapt based on feedback.,Agentic AI,Internal
+5,How does a Core Agentic Loop work?,The agentic loop follows Perceive → Reason → Act → Learn. The agent senses its environment, plans actions, executes them, and adapts from outcomes to improve.,Agentic AI,Internal
+6,What are some prompt engineering best practices?,Prompt engineering involves designing input prompts for AI models to get desired outputs. Best practices include defining roles, setting clear instructions, providing context, and output schemas.,Prompt Engineering,Internal
+7,Single-Agent vs Multi-Agent Systems,Single-agent systems handle sequential tasks. Multi-agent systems use multiple specialized agents (Planner, Executor, Reviewer) to parallelize complex tasks.,Agentic AI,Internal
+8,What tools support RAG implementations?,Common tools include LlamaIndex for indexing documents, LangGraph or CrewAI for agent orchestration, and vector databases like Pinecone or Chroma for embeddings.,RAG,Internal
+9,How do you prevent hallucinations in AI?,Prevent hallucinations by grounding outputs in trusted sources, using RAG pipelines, implementing guardrails, and reviewing outputs through human-in-the-loop processes.,AI,RAG,Agentic AI,Internal
+10,Measuring ROI of Agentic AI,Measure ROI by tracking time saved on tasks, error reduction, increased productivity, and revenue impact from automating multi-step tasks with autonomous agents.,Agentic AI,Internal

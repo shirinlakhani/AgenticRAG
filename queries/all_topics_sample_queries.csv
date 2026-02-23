@@ -1,0 +1,5 @@
+query_id,topic,question,source
+1,Agentic AI,What is the core loop of Agentic AI?,Agentic AI PDF
+2,GenAI,Explain the difference between GenAI and Agentic AI.,Markdowns
+3,RAG,How does retrieval-augmented generation improve LLM responses?,CSV Knowledge Base
+4,Prompt Engineering,Show an example of a system prompt for multi-agent coordination.,Markdowns

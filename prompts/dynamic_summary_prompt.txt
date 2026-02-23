@@ -1,0 +1,3 @@
+Summarize the following content in a clear, concise manner:
+{content}
+Include key points and actionable insights.

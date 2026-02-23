@@ -1,0 +1,5 @@
+What is Agentic AI?
+How does Agentic AI differ from generative AI?
+Explain the core loop of Perceive-Reason-Act-Learn in Agentic AI.
+What are the business applications of Agentic AI?
+Describe single-agent vs multi-agent systems.
